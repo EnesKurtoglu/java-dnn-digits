@@ -59,3 +59,7 @@ java Dnn.java --eval
 - Tuvalin çok küçük bir kısmına çizilen rakamlarda başarı düşer, çünkü büyütürken fırça da kalınlaşır.
 - Eğik çizgili (bayraklı) 1 başlangıçta genelde 7 çıkar. Bir örnek öğretince düzeliyor, ama bu az sayıda çizimle denendi.
 - Evrişimli (CNN) değil, tam bağlantılı bir ağ.
+
+## Lisans
+
+[MIT](LICENSE)
