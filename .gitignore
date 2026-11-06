@@ -1,0 +1,6 @@
+# MNIST ve eğitilen modeller yerelde oluşur
+data/
+models/
+*.bin
+
+*.class
